@@ -1,7 +1,8 @@
 # DCCS BOMBER
 
+Welcome 
 
-Welcome to DCCS BOMBER, the ultimate SMS bombing app!
+DCCS BOMBER, the ultimate SMS bombing app!
 
 With DCCS BOMBER, you can send unlimited SMS messages to a single number in one moment.
 
