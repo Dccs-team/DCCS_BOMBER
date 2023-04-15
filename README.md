@@ -41,10 +41,10 @@ In This Project We Used Our Group Of Developers Lead By Md Saimun & Mursalin Aha
 #
 # FEATURES
 <br>
-        • CALL BOMBING [MIX]
+        â€¢ CALL BOMBING [MIX]
  
 <br>
-        • SMS BOMBING  [MIX]
+        â€¢ SMS BOMBING  [MIX]
  
 <br>
 <b>NOTE:</b> DCCS Bomber is not an modified application. It's development was started as a fully blank project by the developers of <b>Team DCCS </b>.
@@ -58,16 +58,16 @@ In future if We got good response from you We'll definitely update it.
 If you encounter any bug, error and crash you can contact me with details through email which i provide in about section of app or you can contact me on facebook.
 <p>
 <b><u>FUTURE PLAN:</u></b> In Our Next Update We Will Change Our Full Apps With This Future's :- <br>
-        • CALL BOMBING [Direct Bomb]
+        â€¢ CALL BOMBING [Direct Bomb]
  
 <br>
-        • SMS BOMBING  [Direct Bomb]
+        â€¢ SMS BOMBING  [Direct Bomb]
  
 <br>
-        • E-MAIL SPOOFER/BOMBER  [MIX]
+        â€¢ E-MAIL SPOOFER/BOMBER  [MIX]
  
 <br>
-        • FACEBOOK REPORT CLONE UPDATES 
+        â€¢ FACEBOOK REPORT CLONE UPDATES 
  
 <br>
 </p>
@@ -93,5 +93,5 @@ Get us here,<br></br>
 Click the download button to download latest release app.
 
 <!-- BEGIN LATEST DOWNLOAD BUTTON -->
-[![Download apk](https://custom-icon-badges.herokuapp.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download apk")](https://facebook.com/groups/dccsteam/)
+[![Download apk](https://custom-icon-badges.herokuapp.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download apk")](https://firebasestorage.googleapis.com/v0/b/dccs-sms.appspot.com/o/dccs_bomber.apk?alt=media&token=5dd3a4d2-ab90-45fa-9290-f5897328a2ae)
 <!-- END LATEST DOWNLOAD BUTTON -->
