@@ -20,17 +20,18 @@ DCCS BOMBER is light weight android app for send Sms To Victims Phone Number
 <img title="DCCS logo" alt="mursalin" src="https://i.postimg.cc/6phrjDzK/IMG-20230411-WA0002.jpg" height="200" width="200">
 </a>
 </p>
- DCCS BOMBER Is An Application Thats Can Send Random Sms To Victims Mobile Number. <br>You Can Use This App To Prank With Your Friends.<br>DCCS BOMBER Is Fully Free Application That's Work On Bangladesh Only. <br>Other Countries Wait Untile We Release The [0.3] Alpha Update. 
+ 
+DCCS BOMBER Is An Application Thats Can Send Random Sms To Victims Mobile Number. <br> You Can Use This App To Prank With Your Friends. <br> DCCS BOMBER Is Fully Free Application That's Work On Bangladesh Only. <br> Other Countries Wait Untile We Release The [2.0] Alpha Update. 
  
  </p>
-<b><u>Disclaimer:</u></b> This Is A "SMS & CALL BOMBER" For Prank With Your Friends.<b><br> <\> IF YOU USE THIS APP IN UNETHICAL WAY TEAM DCCS WILL NEVER RESPONSIBLE FOR ANY OF PROBLEMS! </b>
+<b><u>Disclaimer:</u></b> This Is A "SMS & CALL BOMBER" For Prank With Your Friends.<b> <br> <\> IF YOU USE THIS APP IN UNETHICAL WAY TEAM DCCS WILL NEVER RESPONSIBLE FOR ANY OF PROBLEMS! </b>
 </p>
 <p>
-<b>Srortly About Project</b>
+<b> Srortly About Project </b> 
 In This Project We Used Our Group Of Developers Lead By Md Saimun & Mursalin Ahamed
-<br>We specialize in creating innovative apps .
-<br>Every Team Members Are Important For Us! We Have Lot's Off Expert Developers.
-<br>We are really thankful to all the members of Team DCCS . <br>Their love and support have always inspired us to do great things. Thanks again, dear brothers!
+<br> We specialize in creating innovative apps .
+ <br> Every Team Members Are Important For Us! We Have Lot's Off Expert Developers.
+ <br> We are really thankful to all the members of Team DCCS . <br> Their love and support have always inspired us to do great things. Thanks again, dear brothers!
 <br><br>
  Click Below To Join Our Public Chat Group To Get Notified 
  
@@ -93,5 +94,5 @@ Get us here,<br></br>
 Click the download button to download latest release app.
 
 <!-- BEGIN LATEST DOWNLOAD BUTTON -->
-[![Download apk](https://custom-icon-badges.herokuapp.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download apk")]()
+[![Download apk](https://custom-icon-badges.herokuapp.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download apk")](https://firebasestorage.googleapis.com/v0/b/dccs-sms.appspot.com/o/DCCS_BOMBER2_2.0.apk?alt=media&token=4798755b-292b-4c75-9083-4b0063a8d74a)
 <!-- END LATEST DOWNLOAD BUTTON -->
