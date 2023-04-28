@@ -93,5 +93,5 @@ Get us here,<br></br>
 Click the download button to download latest release app.
 
 <!-- BEGIN LATEST DOWNLOAD BUTTON -->
-[![Download apk](https://custom-icon-badges.herokuapp.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download apk")](https://firebasestorage.googleapis.com/v0/b/dccs-sms.appspot.com/o/Dccs_bomber%232_2.0.apk?alt=media&token=1793e49b-a646-4e87-98d8-e81aab6d0cc7)
+[![Download apk](https://custom-icon-badges.herokuapp.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download apk")]()
 <!-- END LATEST DOWNLOAD BUTTON -->
